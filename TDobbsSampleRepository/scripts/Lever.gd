@@ -1,5 +1,5 @@
 extends StaticBody2D
-
+#first edit to check how to edit and commit change
 # Stores reference to the UI
 @onready var ui: CanvasLayer = owner.find_child("UI")
 
